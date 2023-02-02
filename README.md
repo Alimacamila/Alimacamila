@@ -24,14 +24,11 @@
   <a href="https://linkedin.com/in/camilavieirafrancatti" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-camilavieirafrancatti-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/camilafrancatti" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-camilafrancatti-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
   <a href="mailto:contatocamilafrancatti@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-camilafrancatti-05122A?style=flat&logo=gmail" alt="gmail"/>
   </a>
 </p>
-<br>
+<br><br>
 
 ## ⚙ Estatísticas GitHub
 <p style="display: flex; justify-content: space-around">
