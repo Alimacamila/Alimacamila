@@ -1,9 +1,8 @@
-<img alt="apresentacao" src="preview.jpg" align="right" height="500em">
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Camila</h1>
 
 - :woman_technologist: Estudante de Ciências da Computação
 
-- :bulb: Conhecimentos em **Infraestrutura, JavaScript, HTML e CSS**
+- :bulb: Conhecimentos em **Infraestrutura, JavaScript, HTML, CSS, Python e Inteligência Artificial**
 
 - :desktop_computer: Atuando como **Técnica de Informática Jr.**
 
@@ -14,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <br><br>
 
 ## :hammer_and_wrench: Ferramentas
@@ -22,6 +22,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 <br><br>
 
 ## :iphone: Contato
